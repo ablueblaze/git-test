@@ -1,0 +1,3 @@
+Some more text to play with.
+
+vim is kinda fun when you have a hold on the basics
